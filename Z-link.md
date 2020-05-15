@@ -60,6 +60,7 @@ http://layer.layui.com/
 http://websocketd.com/
 https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch
 https://antv.vision/zh
+https://dafrok.github.io/vue-baidu-map/#/zh/start/installation
 https://npm.taobao.org/
 https://www.jianshu.com/u/fdcc37cfdf36
 https://www.jianshu.com/p/d2f61e8795d2
@@ -99,3 +100,5 @@ https://www.jianshu.com/p/9d8b2e42328c
 https://blog.csdn.net/weixin_34209406/article/details/91369639
 https://blog.csdn.net/qq_32168087/article/details/88883936
 https://www.jianshu.com/p/c8a1877b7153?tdsourcetag=s_pctim_aiomsg
+https://www.jianshu.com/p/6e1bacd35f59  //js-cookie
+https://www.cnblogs.com/yangguoe/p/9406429.html  //快速导航栏
