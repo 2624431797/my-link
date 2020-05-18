@@ -61,6 +61,7 @@ http://websocketd.com/
 https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch
 https://antv.vision/zh
 https://dafrok.github.io/vue-baidu-map/#/zh/start/installation
+https://panjiachen.github.io/vue-element-admin-site/zh/guide/
 https://npm.taobao.org/
 https://www.jianshu.com/u/fdcc37cfdf36
 https://www.jianshu.com/p/d2f61e8795d2
